@@ -1,6 +1,6 @@
 # 🚀 Gambit Framework
 
-[![Go version](https://img.shields.io/badge/go-1.18%2B-blue.svg)](https://golang.org/dl/)
+[![Go version](https://img.shields.io/badge/go-1.18%2B-blue.svg)](https://golang.org/dl)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/gambit-framework/gambit-framework/actions)
 
