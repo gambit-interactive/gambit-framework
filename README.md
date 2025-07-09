@@ -1,6 +1,5 @@
 # 🚀 Gambit Framework
 
-[![Go version](https://img.shields.io/badge/go-1.18%2B-blue.svg)](https://golang.org/dl)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/gambit-framework/gambit-framework/actions)
 
@@ -246,16 +245,3 @@ func TestRegisterUserUseCase_Execute(t *testing.T) {
 | `make migrate-down`   | Reverts the last applied migration.                   |
 | `make build`          | Compiles the application binary for production.       |
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-1.  **Fork** the project.
-2.  Create a new feature branch (`git checkout -b feat/new-feature`).
-3.  Commit your changes (`git commit -m 'feat: Add new feature'`).
-4.  Push to your branch (`git push origin feat/new-feature`).
-5.  Open a **Pull Request**.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
